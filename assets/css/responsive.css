@@ -1,0 +1,186 @@
+@media only screen and (max-width: 767px) {
+    /* Theme css */
+    .btn-style1 {
+        padding: 15px 18px;
+    }
+    .btn-style2 {
+        padding: 15px 18px;
+    }
+    .ptb-100 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pt-550 {
+        padding-top: 190px;
+    }
+    .pt-100 {
+        padding-top: 50px;
+    }
+    /* End Theme css */
+
+    /* End Nav Area */
+    .main-nav {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    /* End Nav Area */
+
+    /* Slider Area */
+    .slider-text h3 {
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    .slider-text h1 {
+        font-size: 50px;
+        margin-bottom: 0px;
+    }
+    .slider-text h4 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .slider-text p {
+        margin-bottom: 15px;
+    }
+    .slder-area .owl-nav button.owl-prev {
+        top: 90%;
+        left: 20px;
+    }
+    .slder-area .owl-nav button.owl-next {
+        top: 90%;
+        right: 20px;
+    }
+    .owl-theme .owl-dots {
+        bottom: 10px;
+        left: 0;
+        right: 0;
+    }
+    /* End Slider Area */
+
+    /* Quick Contact */
+    .qick-contact .text h2 {
+        font-size: 28px;
+    }
+    /* End Quick Contact */
+    
+    /* About Area */
+    .section-titel {
+        margin-bottom: 50px;
+    }
+    /* End About Area */
+    
+    /* End Skilled Area */
+    .skilled-card {
+        margin-bottom: 50px;
+    }
+    /* End Skilled Area */
+
+    /* Counter Area */
+    .counter-card {
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    /* End Counter Area */
+    
+    /* Testimonial Area */
+    .testimonial-card {
+        padding: 30px 24px;
+    }
+    .testimonial-card {
+        background-color: #fff;
+        max-width: 670px;
+        margin: auto;
+        border-radius: 30px;
+        padding: 30px 24px;
+    }
+    .pb-240 {
+        padding-bottom: 145px;
+    }
+    /* End testimonial Area */
+
+    /* Brand Area */
+    .brand-card {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    /* End Brand Area */
+
+    /* End Atb Area */
+    .a-text {
+        padding-left: 20px;
+    }
+    .a-text h2 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .a-text p {
+        margin-bottom: 30px;
+    }
+    /* End Atb Area */
+
+    /* Subscribe Area */
+
+    .sub-text h4 {
+        color: #404040;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .sum-btn {
+        padding: 15px 18px;
+    }
+    /* End Subscribe Area */
+
+    /* Map Area */
+    .contact-from {
+        padding: 30px 20px;
+    }
+    /* End Map Area */
+
+    .contact-info {
+        padding: 350px 0 50px 0;
+    }
+}
+  @media only screen and (min-width: 576px) and (max-width: 767px) {
+    
+   
+}
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+    /* Theme css */
+    .pt-550 {
+        padding-top: 360px;
+    }
+    .pb-240 {
+        padding-bottom: 150px;
+    }
+    /* End Theme css */
+
+     /* Slider Area */
+     .slider-text h3 {
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    .slider-text h1 {
+        font-size: 75px;
+        margin-bottom: 10px;
+    }
+    .slider-text h4 {
+        font-size: 36px;
+        margin-bottom: 22px;
+    }
+    /* End Slider Area */
+
+    /* Contact Info Area */
+    .contact-info {
+        padding: 450px 0 50px 0;
+    }
+    /* End Contact Info Area */
+}
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+  
+
+}
+  
+  @media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  
+}
